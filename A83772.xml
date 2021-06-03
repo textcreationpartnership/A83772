@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The order of the House of Commons, declaring the high breach of priviledge of Parliament, by His Majesties coming in person, attended with great numbers of persons, armed with halberds, swords and pistolls, to the Commons House of Parliament. Together with the power given to the committee of the House of Commons, appointed to sit in London, to consider of vindicating the priviledge of Parliament, and of the safety of the kingdom and citie. Whereunto is added the names and declaration of the said committee.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83772</idno><idno type="EEBO-CITATION">99873146</idno>
+  <idno type="VID">125604</idno>
+  <idno type="EEBO-PROQUEST">2240942527</idno>
+  
+            <idno type="STC">Wing E2654</idno>
+            <idno type="STC">Thomason E181_28</idno>
+            <idno type="STC">ESTC R7521</idno>
+            <idno type="PROQUEST">99873146</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99873146e"/>
+            <note>(EEBO-TCP ; phase 2, no. A83772)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125604)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 32:E181[28])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The order of the House of Commons, declaring the high breach of priviledge of Parliament, by His Majesties coming in person, attended with great numbers of persons, armed with halberds, swords and pistolls, to the Commons House of Parliament. Together with the power given to the committee of the House of Commons, appointed to sit in London, to consider of vindicating the priviledge of Parliament, and of the safety of the kingdom and citie. Whereunto is added the names and declaration of the said committee.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Joseph Hunscott,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term type="corporate_name">England and Wales. --  Parliament. --  House of Commons --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125604:1"/>
+            <p>THE ORDER Of the House of COMMONS, Declaring the high Breach of Privi<g ref="char:EOLhyphen"/>ledge of PARLIAMENT, By His Majesties coming in Person, attended with great numbers of Persons, Armed with Halberds, Swords and Pistolls, to the <hi>Commons</hi> House of PARLIAMENT.</p>
+            <p>Together with the Power given to the Committe of the House of Commons, appointed to sit in <hi>London,</hi> to consider of Vindicating the Priviledge of Parliament, and of the safety of the Kingdom and Citie.</p>
+            <p>Whereunto is added the Names and Declara<g ref="char:EOLhyphen"/>tion of the said Committee.</p>
+            <figure/>
+            <p>
+               <hi>LONDON;</hi> Printed for <hi>Joseph Hunscott.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="list_of_committee_members">
+            <list>
+               <pb facs="tcp:125604:2"/>
+               <item>Master <hi>Chancellor</hi> of the Exchequer.</item>
+               <item>Master <hi>Glyn.</hi>
+               </item>
+               <item>Master <hi>Whitlock.</hi>
+               </item>
+               <item>Lord <hi>Faulkland.</hi>
+               </item>
+               <item>Sir <hi>Phil. Stapleton.</hi>
+               </item>
+               <item>Master <hi>Nath. Fines.</hi>
+               </item>
+               <item>Sir <hi>Ralph Hopton.</hi>
+               </item>
+               <item>Sir <hi>John Hotham.</hi>
+               </item>
+               <item>Sir <hi>Walter Earl.</hi>
+               </item>
+               <item>Sir <hi>Robert Cook.</hi>
+               </item>
+               <item>Sir <hi>Tho. Walsingham.</hi>
+               </item>
+               <item>Sir <hi>Samuel Roll.</hi>
+               </item>
+               <item>Master <hi>Perpoint.</hi>
+               </item>
+               <item>Master <hi>Walt. Long.</hi>
+               </item>
+               <item>Sir <hi>Rich. Cave.</hi>
+               </item>
+               <item>Sir <hi>Ed. Hungerford.</hi>
+               </item>
+               <item>Master <hi>Grimston.</hi>
+               </item>
+               <item>Sir <hi>Christ. Wray.</hi>
+               </item>
+               <item>Sir <hi>Ben. Rudyard.</hi>
+               </item>
+               <item>Sir <hi>John Heppisley.</hi>
+               </item>
+               <item>Master <hi>Herbert Price.</hi>
+               </item>
+               <item>Sir <hi>Iohn Wray.</hi>
+               </item>
+               <item>Sir <hi>Thomas Barrington.</hi>
+               </item>
+               <item>Master <hi>Wheeler.</hi>
+               </item>
+               <item>Sir <hi>Wil. Litton.</hi>
+               </item>
+            </list>
+            <p>This is the Committee appointed by the former Order, and are to pursue the directions of the former Order: And all that will come are to have voices at this Committee.</p>
+         </div>
+         <div type="Parliamentary_order">
+            <pb facs="tcp:125604:2"/>
+            <opener>
+               <dateline>
+                  <date>Die Mercurii 5<hi>
+                        <seg rend="sup">th</seg> January,</hi> 1641.</date>
+                  <lb/> Commons-House of Parliament.</dateline>
+            </opener>
+            <p>WHereas his Majesty in his Royall Person yesterday being the 4<seg rend="sup">th</seg> of <hi>January</hi> 1641. did come to the House of Commons attended with a great multitude of men armed in a warlike manner, with Holberts, Swords, and Pistolls, who came up to the very door of the House, and placed themselves there, and in other places and passages neer to the House, to the great terror and disturbance of the Members thereof, then sitting, and according to their duty, in a peaceable and orderly manner, treating of the great affairs of both Kingdoms of England and Ireland; And his Majesty ha<g ref="char:EOLhyphen"/>ving placed himself in the Speakers Chair, did demand the Per<g ref="char:EOLhyphen"/>sons of divers Members of the House to be delivered unto Him.</p>
+            <p>It is this day declared by the House of Commons, that the same is a high breach of the Rights and Priviledges of Parlia<g ref="char:EOLhyphen"/>ment, and inconsistent to the Liberty and freedome thereof: and therefore this House doth conceive they cannot with the safety of their own Persons, or the indempnity of the Rights and priviledges of Parliament, sit here any longer, without a full vindication of so high a breach, and a sufficient Guard wherein they may confide; for which both Houses joyntly, and this House by it self, have been humble Suitors to his Ma<g ref="char:EOLhyphen"/>jesty, and cannot as yet obtain.</p>
+            <p>Notwithstanding which, this House being very sensible of the great trust reposed in them; and especially at this time of the manifold distractions of this Kingdome, and the lamen<g ref="char:EOLhyphen"/>table and distressed condition of the Kingdome of Ireland; doth Order, that this House shall be Adjourned untill Tues<g ref="char:EOLhyphen"/>day
+<pb facs="tcp:125604:3"/> next at one of the Clock in the afternoon, and that a Com<g ref="char:EOLhyphen"/>mittee be named by this House, and all that will come shall have voyces, shall sit at the <hi>Guild-Hall</hi> in the City of London to morrow morning at nine of the clock, and shall have power to consider and resolve of all things that may concern the good and safety of the City and Kingdom, and particularly how our Priviledges may be vindicated, and our Persons secured. And to consider of the Affairs and relief of Ireland; and shall have power to consult and advise with any person or persons touch<g ref="char:EOLhyphen"/>ing the premisses, and shall have power to send for parties, witnesses, papers, and Records.</p>
+            <p>And it is further ordered, that the Committee for the Irish Affairs shall meet at the <hi>Guild-Hall</hi> aforesaid, at what time they shall think fit; and consult and do touching the Affairs of Ire<g ref="char:EOLhyphen"/>land, according to the power formerly given them by this House; and both the said Committees shall Report the Re<g ref="char:EOLhyphen"/>sults of their consideration and Resolution to this House.</p>
+         </div>
+         <div type="Parliamentary_declaration">
+            <pb facs="tcp:125604:3"/>
+            <head>The Declaration agreed upon by the Committee of the House of Commons, appointed to sit in the Guild-Hall in <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> to consider of the safety of the Kingdom, and of the City of <hi>London:</hi> and of the preserving the Priviledges of Parliament.</head>
+            <head type="sub">Master <hi>Wilde,</hi> Serjeant at Law, sitting in the Chair of that Committee. 6 Jan. 1642.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the Chambers, Studies, and Truncks of Mr. <hi>Hollis,</hi> Sir <hi>Arthur Haslerige,</hi> M<seg rend="sup">r</seg>. <hi>Pym,</hi> Mr. <hi>Hampden,</hi> M<seg rend="sup">r</seg>. <hi>Strode,</hi> Members of the House of Commons, upon <hi>Munday,</hi> the third of this in<g ref="char:EOLhyphen"/>stant <hi>January,</hi> by colour of his Maiesties War<g ref="char:EOLhyphen"/>rant, have been sealed up by Sir <hi>William Kilegrey,</hi> and Sir <hi>William Flemen,</hi> and others; which is not onely against the Priviledge of Parliament, but the common Liberty of every subiect: which said Members afterwards, the same day, were, under the like colour, by Serieant <hi>Frances,</hi> one of his Maiesties Serieants at Arms, contrary to all former presidents and privi<g ref="char:EOLhyphen"/>ledges of Parliaments, demanded of the Speaker, sitting in the House of Commons, to be delivered unto him, that he might arrest them of high Treason. And whereas afterwards, the next day, his Maiesty in his Royall Person, came to the said House, attended with a great multitude of men, armed in war<g ref="char:EOLhyphen"/>like manner, with Halberds, Swords, and Pistols, who came up to the very door of the House, and placed themselves there, and in other places and passages neer to the said House, to the great terrour and disturbance of the Members thereof, then sit<g ref="char:EOLhyphen"/>ting, and, according to their duty, in a peaceable and orderly maner, treating of the great Affairs of <hi>England</hi> and <hi>Ireland:</hi> And his Maiesty having placed himself in the Speakers Chair, de<g ref="char:EOLhyphen"/>manded of them the persons of the said Members to be deliver<g ref="char:EOLhyphen"/>ed unto him, which is a high breach of the Rights and privi<g ref="char:EOLhyphen"/>ledges of Parliament, and inconsistent with the Liberties and Freedom thereof. And whereas afterwards his Maiesty did
+<pb facs="tcp:125604:4"/> issue forth severall Warrants to divers Officers, under his own Hand, for the apprehension of the persons of the said Members, which by Law he cannot do, there being not all this time, any legall charge or accusation, or due Processes of Law issued a<g ref="char:EOLhyphen"/>gainst them, nor any pretence of charge made known to that House; all which are against the Fundamentall Liberties of the subiect, and the Rights of Parliament. Whereupon we are necessitated, according to our duty, to declare, That if any person shall arrest M<seg rend="sup">r</seg>. <hi>Hollis,</hi> Sir <hi>Arthur Haslerige,</hi> M<seg rend="sup">r</seg>. <hi>Fym,</hi> M<seg rend="sup">r</seg>. <hi>Hampden,</hi> M<seg rend="sup">r</seg>. <hi>Strode,</hi> or any of them, or any other Member of Parliament, by pretence or colour of any Warrant, issuing out from the King onely, is guilty of the breach of the Liberties of the subiect, and of the priviledge of Parliament, and a publike enemy to the Common-wealth. And that the arresting of the said Members, or any of them, or of any other Member of Parliament, by any Warrant whatsoever, without a legall pro<g ref="char:EOLhyphen"/>ceeding against them, and without consent of that House, whereof such person is a Member, is against the Liberty of the subiect, and a breach of priviledge of Parliament; and the person which shall arrest any of these persons, or any other Member of the Parliament, is declared a publike enemy of the Common-wealth.</p>
+            <p>Notwithstanding all which, we think fit further to declare, That we are so farre from any endeavour to protect any of our Members, that shall be in due manner prosecuted according to the Laws of the Kingdom, and the rights and priviledges of Parliament, for Treason, or any other misdemeanor, That none shall be more ready and willing than we ourselves, to bring them to their speedy and due tryall; being sensible that it equal<g ref="char:EOLhyphen"/>ly imports us, as well to see iustice done against them that are criminous, as to defend the Rights and Liberties of the subiects Parliament of <hi>England.</hi>
+            </p>
+         </div>
+         <div type="Parliamentary_order">
+            <pb facs="tcp:125604:4"/>
+            <opener>
+               <dateline>
+                  <date>Die Lunae, 3 Januar. 1641.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is this day ordered upon the question, by the Commons House of Parliament, That if any persons whatsoever, shall come to the Lodgings of any Member of this House, and there do offer to seal the Trunks, Doors, or Papers of any Mem<g ref="char:EOLhyphen"/>bers of this House, or to seize upon their persons; That then such Members shall require the aid of the Constable, to keep such persons in safe custody, till this House do give further Order. And this House doth further declare, That if any person whatsoever, shall of<g ref="char:EOLhyphen"/>fer to arrest or detain the person of any Member of this House, without first acquainting this House therewith, and receiving further Order from this House; That it is lawfull for such Mem<g ref="char:EOLhyphen"/>ber, or any person, to assist him, and to stand upon his, and their guard of defence, and to make resistance, according to the Pro<g ref="char:EOLhyphen"/>testation taken, to defend the priviledges of Parliament.</p>
+            <closer>
+               <signed>H. Elsynge, Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
